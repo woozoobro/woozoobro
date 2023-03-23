@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
 <h3 align="left">A passionate iOS developer from Korea</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://velog.velcdn.com/images/woojusm/post/b8a58b15-cd50-4601-85e3-ba834b54a594/image.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 - 🌱 I’m currently learning **SwiftUI**
