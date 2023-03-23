@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=woozoobro&show_icons=true&locale=en&layout=compact" alt="woozoobro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=woozoobro&show_icons=true&locale=en" alt="woozoobro" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=woozoobro&show_icons=true&locale=en" alt="woozoobro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woozoobro&" alt="woozoobro" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=woozoobro&" alt="woozoobro" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/woozoobro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woozoobro" /></a></p><br><br>
