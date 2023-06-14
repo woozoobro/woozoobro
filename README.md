@@ -7,7 +7,7 @@
 
 > ### [SwiftUI 정리](https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking)
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently coding **SwiftUI**
 
 - 📝 I regularly write articles on [https://velog.io/@woojusm](https://velog.io/@woojusm)
 
