@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=woozoobro&theme=tokyonight&show_icons=true" width="40%" />
 </a>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=woozoobro&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://opgc.me/#/users/woozoobro" target="_blank"><img src="https://api.opgc.me/githubs/users/woozoobro/tag/?theme=basic" /></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/woozoobro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woozoobro" /></a></p><br><br>
