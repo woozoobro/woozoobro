@@ -19,7 +19,7 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=woozoobro&theme=tokyonight&show_icons=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woozoobro&theme=tokyonight&show_icons=true" width="40%" />
 </a>
 
 
