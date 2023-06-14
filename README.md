@@ -22,7 +22,7 @@
 
 <a href="https://opgc.me/#/users/woozoobro" target="_blank"><img src="https://api.opgc.me/githubs/users/woozoobro/tag/?theme=basic" /></a>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 ___
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/woozoobro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="woozoobro" /></a></p><br><br>
