@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/film.woods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="film.woods" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCDu6yjwSyDRePL-4yDBnv0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="woozoobro" height="30" width="40" /></a>
 <a href="https://discord.gg/Uh6qPuQhqA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uh6qPuQhqA" height="30" width="40" /></a>
 
