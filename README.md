@@ -2,6 +2,9 @@
 
 <h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
 <h3 align="left">A passionate iOS developer from Korea</h3>
+
+## [Personal Site](https://woozoobro.life)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 - 🌱 I’m currently learning **SwiftUI**
@@ -10,7 +13,7 @@
 
 - 📫 How to reach me **wwoods@kakao.com**
 
-## [Personal Site](https://woozoobro.life)
+
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
