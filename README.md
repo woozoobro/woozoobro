@@ -16,12 +16,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?woozoobro=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woozoobro&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?woozoobro=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woozoobro&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-
 ---
 
 <h3 align="left">Support:</h3>
