@@ -16,11 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=woozoobro&theme=tokyonight&show_icons=true" width="40%" />
-</a>
-
-<a href="https://opgc.me/#/users/woozoobro" target="_blank"><img src="https://api.opgc.me/githubs/users/woozoobro/tag/?theme=basic" /></a>
+<script src="https://gist.github.com/woozoobro/387361e7eae616ae97d2cd641f7ae5ad.js"></script>
 
 
 ___
