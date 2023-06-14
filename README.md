@@ -16,7 +16,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 
-<script src="https://gist.github.com/woozoobro/387361e7eae616ae97d2cd641f7ae5ad.js"></script>
 
 
 ___
