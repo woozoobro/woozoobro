@@ -3,17 +3,17 @@
 <h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
 <h3 align="left">A passionate iOS developer from Korea</h3>
 
-### [Personal Site](https://woozoobro.life)
+> ### [Personal Site](https://woozoobro.life)
 
-### [SwiftUI 정리](https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
+> ### [SwiftUI 정리](https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking)
 
 - 🌱 I’m currently learning **SwiftUI**
 
 - 📝 I regularly write articles on [https://velog.io/@woojusm](https://velog.io/@woojusm)
 
 - 📫 How to reach me **wwoods@kakao.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
 ---
 
