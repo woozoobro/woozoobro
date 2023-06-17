@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
 <h3 align="left">A passionate iOS developer from Korea</h3>
 
-> ### [Personal Site](https://woozoobro.life)
+> ### [Personal Website](https://woozoobro.life)
 
 > ### [SwiftUI 정리](https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking)
 
