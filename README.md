@@ -3,7 +3,6 @@
 <h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
 <h3 align="left">A passionate iOS developer from Korea</h3>
 
-> ### [Personal Website](https://woozoobro.life)
 
 > ### [직전 프로젝트](https://github.com/woozoobro/About_Mandarin.git)
 
@@ -12,6 +11,8 @@
 - 📝 I regularly write articles on [https://velog.io/@woojusm](https://velog.io/@woojusm)
 
 - 📫 How to reach me **wwoods@kakao.com**
+
+> #### [Personal Website](https://woozoobro.life)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
 
