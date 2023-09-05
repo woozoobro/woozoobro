@@ -5,7 +5,7 @@
 
 > ### [Personal Website](https://woozoobro.life)
 
-> ### [SwiftUI 정리](https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking)
+> ### [직전 프로젝트]([https://github.com/woozoobro/SwiftUI/tree/main/SwiftfulThinking](https://github.com/woozoobro/About_Mandarin.git))
 
 - 🌱 I’m currently coding **SwiftUI**
 
