@@ -4,7 +4,7 @@
 <h3 align="left">A passionate iOS developer from Korea</h3>
 
 
-> ### [직전 프로젝트](https://github.com/woozoobro/About_Mandarin.git)
+> # [직전 프로젝트](https://github.com/woozoobro/About_Mandarin.git)
 
 - 🌱 I’m currently coding **SwiftUI**
 
