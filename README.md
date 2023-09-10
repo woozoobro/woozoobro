@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently coding **SwiftUI**
 
-- 📝 I regularly write articles on [https://velog.io/@woojusm](https://velog.io/@woojusm)
+- 📝 I regularly write articles on [Medium](https://medium.com/@woojusm)
 
 - 📫 How to reach me **wwoods@kakao.com**
 
