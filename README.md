@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **wwoods@kakao.com**
 
+- 🧵 Let's talk [Discord](https://discord.com/invite/5e5fTenSQt)
+
 > #### [Personal Website](https://woozoobro.life)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woozoobro&label=Profile%20views&color=0e75b6&style=flat" alt="woozoobro" /> </p>
