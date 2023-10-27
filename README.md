@@ -5,8 +5,8 @@
 
 
 ### [직전 프로젝트]
-#### [Mandarin App](https://github.com/woozoobro/About_Mandarin.git)
-#### [Threads App](https://github.com/woozoobro/ThreadsClone)
+#### [🍊 Mandarin App](https://github.com/woozoobro/About_Mandarin.git)
+#### [🧵 Threads App](https://github.com/woozoobro/ThreadsClone)
 
 ---
 
