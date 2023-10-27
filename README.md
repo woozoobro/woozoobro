@@ -4,9 +4,9 @@
 ## A passionate iOS developer from Korea
 
 
-### [직전 프로젝트 Mandarin](https://github.com/woozoobro/About_Mandarin.git)
-
-### [Threads App](https://github.com/woozoobro/ThreadsClone)
+### [직전 프로젝트]
+#### [Mandarin App](https://github.com/woozoobro/About_Mandarin.git)
+#### [Threads App](https://github.com/woozoobro/ThreadsClone)
 
 - 🌱 I’m currently coding **SwiftUI**
 
