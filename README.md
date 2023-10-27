@@ -1,10 +1,10 @@
 
 
-<h1 align="left">Hi 👋, I'm JuHeyong Woo</h1>
-<h3 align="left">A passionate iOS developer from Korea</h3>
+# Hi 👋, I'm JuHeyong Woo
+## A passionate iOS developer from Korea
 
 
-> # [직전 프로젝트](https://github.com/woozoobro/About_Mandarin.git)
+> ## [직전 프로젝트](https://github.com/woozoobro/About_Mandarin.git)
 
 - 🌱 I’m currently coding **SwiftUI**
 
