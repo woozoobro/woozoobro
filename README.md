@@ -9,7 +9,7 @@
 
 ---
 
-> #### [Personal Website](https://woozoobro.life)
+> #### [Personal Website](https://my-space-nu.vercel.app)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@woozoobro)
 
