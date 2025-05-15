@@ -1,7 +1,3 @@
-
-
-# Hi 👋, I'm JuHeyong Woo
-## Passionate Full Stack Engineer
 ### Previous Project
 #### [⛸️ Figure Finale](https://www.figurefinale.com/)
 #### [📝 Holi](https://www.holi.im/)
