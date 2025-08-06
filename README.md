@@ -1,6 +1,6 @@
 ### Previous Project
+#### [🎥 Moly](https://www.moly.im/)
 #### [⛸️ Figure Finale](https://www.figurefinale.com/)
-#### [📝 Holi](https://www.holi.im/)
 #### [🪐 Visual Audio](https://harpriya.vercel.app/)
 ---
 
