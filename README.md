@@ -1,6 +1,6 @@
 ### Previous Project
-#### [🎥 Moly](https://www.moly.im/)
-#### [⛸️ Figure Finale](https://www.figurefinale.com/)
+#### [🔔 cc-notify](https://github.com/woozoobro/claude-code-notify)
+#### [🇯🇵 nori.boo](https://nori.boo/)
 #### [🪐 Visual Audio](https://harpriya.vercel.app/)
 ---
 
