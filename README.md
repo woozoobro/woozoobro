@@ -1,5 +1,6 @@
 ### Previous Project
 #### [🔔 cc-notify](https://github.com/woozoobro/claude-code-notify)
+#### [🪐 ai-landscape-2025](https://ai-landscape-2025.vercel.app/)
 #### [🇯🇵 nori.boo](https://nori.boo/)
 #### [🪐 Visual Audio](https://harpriya.vercel.app/)
 ---
